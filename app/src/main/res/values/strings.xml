@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mobile 02 20192</string>
+    <string name="action_call">Call Second Activity</string>
+    <string name="action_web">Open a Website</string>
+    <string name="action_tel">Make a Call</string>
+    <string name="action_map">Open a Map</string>
+    <string name="action_camera">Take a Photo</string>
+    <string name="error_empty">Please fill empty field</string>
+    <string name="label_output">Data (Bundle) from First Activity</string>
+    <string name="label_output_2">Data (Extra) from First Activity</string>
+    <string name="text_first_name">First Name</string>
+    <string name="text_last_name">Last Name</string>
+    <string name="text_another">Another Extra</string>
+    <string name="text_desc">Just Description</string>
+</resources>
